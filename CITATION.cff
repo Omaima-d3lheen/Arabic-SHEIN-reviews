@@ -1,0 +1,20 @@
+cff-version: 1.2.0 
+message: "If you use this dataset, please cite it as follows."
+title: "Arabic Sentiment Dataset for SHEIN Products Reviews"
+authors:
+  - family-names: "Delheen" 
+    given-names: "Omaima" 
+  - family-names: "Elshami" 
+    given-names: "Hala" 
+date-released: 2025-08-12
+version: "1.0"
+doi: ""
+url: "https://github.com/yourusername/arabic-sentiment-dataset"
+license: "MIT"
+abstract: >
+  This dataset contains Arabic product reviews from SHEIN, labeled for sentiment
+  analysis (positive, negative, neutral). It includes pre-processing, augmentation,
+  and balanced distribution ready for deep learning and NLP tasks.
+  The dataset and accompanying work were part of a graduation project at Misurata University,
+  Libya, Faculty of Information Technology, titled:
+  "Customer Sentiment Detection towards SHEIN Products using Deep Learning and NLP Techniques".
